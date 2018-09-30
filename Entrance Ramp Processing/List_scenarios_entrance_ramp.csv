@@ -1,0 +1,69 @@
+Scenario,Ramp lane change,Platooning Strategy,Ramp Configuration,MPR,CACC Gap Setting,Freeway Volumes,Ramp Volumes,Percent Trucks
+1,No action ,Right Lane Restriction,Without Auxiliary Lane,0,0.6,3020,600,25
+2,No action ,Right Lane Restriction,With Auxiliary Lane,0,0.6,3020,600,25
+3,No action ,Right Lane Restriction,Without Auxiliary Lane,0,0.6,2365,600,25
+4,No action ,Right Lane Restriction,With Auxiliary Lane,0,0.6,2365,600,25
+5,No action ,Right Lane Restriction,Without Auxiliary Lane,10,0.6,3020,600,25
+6,Entire platoon change lane on approaching ramp,Right Lane Restriction,Without Auxiliary Lane,10,0.6,3020,600,25
+7,No action ,Right Lane Restriction,Without Auxiliary Lane,25,0.6,3020,600,25
+8,Entire platoon change lane on approaching ramp,Right Lane Restriction,Without Auxiliary Lane,25,0.6,3020,600,25
+9,No action ,Right Lane Restriction,Without Auxiliary Lane,50,0.6,3020,600,25
+10,Entire platoon change lane on approaching ramp,Right Lane Restriction,Without Auxiliary Lane,50,0.6,3020,600,25
+11,No action ,Right Lane Restriction,Without Auxiliary Lane,100,0.6,3020,600,25
+12,Entire platoon change lane on approaching ramp,Right Lane Restriction,Without Auxiliary Lane,100,0.6,3020,600,25
+13,No action ,Right Lane Restriction,With Auxiliary Lane,10,0.6,3020,600,25
+14,Entire platoon change lane on approaching ramp,Right Lane Restriction,With Auxiliary Lane,10,0.6,3020,600,25
+15,No action ,Right Lane Restriction,With Auxiliary Lane,25,0.6,3020,600,25
+16,Entire platoon change lane on approaching ramp,Right Lane Restriction,With Auxiliary Lane,25,0.6,3020,600,25
+17,No action ,Right Lane Restriction,With Auxiliary Lane,50,0.6,3020,600,25
+18,Entire platoon change lane on approaching ramp,Right Lane Restriction,With Auxiliary Lane,50,0.6,3020,600,25
+19,No action ,Right Lane Restriction,With Auxiliary Lane,100,0.6,3020,600,25
+20,Entire platoon change lane on approaching ramp,Right Lane Restriction,With Auxiliary Lane,100,0.6,3020,600,25
+21,No action ,Free Lane Selection,Without Auxiliary Lane,10,0.6,3020,600,25
+22,Entire platoon change lane on approaching ramp,Free Lane Selection,Without Auxiliary Lane,10,0.6,3020,600,25
+23,No action ,Free Lane Selection,Without Auxiliary Lane,25,0.6,3020,600,25
+24,Entire platoon change lane on approaching ramp,Free Lane Selection,Without Auxiliary Lane,25,0.6,3020,600,25
+25,No action ,Free Lane Selection,Without Auxiliary Lane,50,0.6,3020,600,25
+26,Entire platoon change lane on approaching ramp,Free Lane Selection,Without Auxiliary Lane,50,0.6,3020,600,25
+27,No action ,Free Lane Selection,Without Auxiliary Lane,100,0.6,3020,600,25
+28,Entire platoon change lane on approaching ramp,Free Lane Selection,Without Auxiliary Lane,100,0.6,3020,600,25
+29,No action ,Free Lane Selection,With Auxiliary Lane,10,0.6,3020,600,25
+30,Entire platoon change lane on approaching ramp,Free Lane Selection,With Auxiliary Lane,10,0.6,3020,600,25
+31,No action ,Free Lane Selection,With Auxiliary Lane,25,0.6,3020,600,25
+32,Entire platoon change lane on approaching ramp,Free Lane Selection,With Auxiliary Lane,25,0.6,3020,600,25
+33,No action ,Free Lane Selection,With Auxiliary Lane,50,0.6,3020,600,25
+34,Entire platoon change lane on approaching ramp,Free Lane Selection,With Auxiliary Lane,50,0.6,3020,600,25
+35,No action ,Free Lane Selection,With Auxiliary Lane,100,0.6,3020,600,25
+36,Entire platoon change lane on approaching ramp,Free Lane Selection,With Auxiliary Lane,100,0.6,3020,600,25
+37,No action ,Right Lane Restriction,Without Auxiliary Lane,10,0.6,2365,600,25
+38,Entire platoon change lane on approaching ramp,Right Lane Restriction,Without Auxiliary Lane,10,0.6,2365,600,25
+39,No action ,Right Lane Restriction,Without Auxiliary Lane,25,0.6,2365,600,25
+40,Entire platoon change lane on approaching ramp,Right Lane Restriction,Without Auxiliary Lane,25,0.6,2365,600,25
+41,No action ,Right Lane Restriction,Without Auxiliary Lane,50,0.6,2365,600,25
+42,Entire platoon change lane on approaching ramp,Right Lane Restriction,Without Auxiliary Lane,50,0.6,2365,600,25
+43,No action ,Right Lane Restriction,Without Auxiliary Lane,100,0.6,2365,600,25
+44,Entire platoon change lane on approaching ramp,Right Lane Restriction,Without Auxiliary Lane,100,0.6,2365,600,25
+45,No action ,Right Lane Restriction,With Auxiliary Lane,10,0.6,2365,600,25
+46,Entire platoon change lane on approaching ramp,Right Lane Restriction,With Auxiliary Lane,10,0.6,2365,600,25
+47,No action ,Right Lane Restriction,With Auxiliary Lane,25,0.6,2365,600,25
+48,Entire platoon change lane on approaching ramp,Right Lane Restriction,With Auxiliary Lane,25,0.6,2365,600,25
+49,No action ,Right Lane Restriction,With Auxiliary Lane,50,0.6,2365,600,25
+50,Entire platoon change lane on approaching ramp,Right Lane Restriction,With Auxiliary Lane,50,0.6,2365,600,25
+51,No action ,Right Lane Restriction,With Auxiliary Lane,100,0.6,2365,600,25
+52,Entire platoon change lane on approaching ramp,Right Lane Restriction,With Auxiliary Lane,100,0.6,2365,600,25
+53,No action ,Free Lane Selection,Without Auxiliary Lane,10,0.6,2365,600,25
+54,Entire platoon change lane on approaching ramp,Free Lane Selection,Without Auxiliary Lane,10,0.6,2365,600,25
+55,No action ,Free Lane Selection,Without Auxiliary Lane,25,0.6,2365,600,25
+56,Entire platoon change lane on approaching ramp,Free Lane Selection,Without Auxiliary Lane,25,0.6,2365,600,25
+57,No action ,Free Lane Selection,Without Auxiliary Lane,50,0.6,2365,600,25
+58,Entire platoon change lane on approaching ramp,Free Lane Selection,Without Auxiliary Lane,50,0.6,2365,600,25
+59,No action ,Free Lane Selection,Without Auxiliary Lane,100,0.6,2365,600,25
+60,Entire platoon change lane on approaching ramp,Free Lane Selection,Without Auxiliary Lane,100,0.6,2365,600,25
+61,No action ,Free Lane Selection,With Auxiliary Lane,10,0.6,2365,600,25
+62,Entire platoon change lane on approaching ramp,Free Lane Selection,With Auxiliary Lane,10,0.6,2365,600,25
+63,No action ,Free Lane Selection,With Auxiliary Lane,25,0.6,2365,600,25
+64,Entire platoon change lane on approaching ramp,Free Lane Selection,With Auxiliary Lane,25,0.6,2365,600,25
+65,No action ,Free Lane Selection,With Auxiliary Lane,50,0.6,2365,600,25
+66,Entire platoon change lane on approaching ramp,Free Lane Selection,With Auxiliary Lane,50,0.6,2365,600,25
+67,No action ,Free Lane Selection,With Auxiliary Lane,100,0.6,2365,600,25
+68,Entire platoon change lane on approaching ramp,Free Lane Selection,With Auxiliary Lane,100,0.6,2365,600,25
